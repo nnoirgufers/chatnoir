@@ -2,7 +2,7 @@ import firebase from 'firebase'
 
 const firebaseApp = firebase.initializeApp({
     apiKey: "AIzaSyAADI4Uku0sUJU6NC-GcOCqh4b34iPUncc",
-    authDomain: "https://noir-chat.herokuapp.com/",
+    authDomain: "noir-chat.herokuapp.com",
     projectId: "noirchat-ea0b0",
     storageBucket: "noirchat-ea0b0.appspot.com",
     messagingSenderId: "830454769514",
